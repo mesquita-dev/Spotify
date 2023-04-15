@@ -26,7 +26,7 @@ export function Sidebar() {
 
       <nav className="mt-6 pt-10 border-t border-zinc-800 flex flex-col gap-3">
         <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">
-          2000's Rap
+          2000s Rap
         </a>
         <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">
           Trapzera
@@ -35,7 +35,7 @@ export function Sidebar() {
           Pop Rewind
         </a>
         <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">
-          2010's Pop
+          2010s Pop
         </a>
         <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">
           Best Trap Funk
